@@ -75,11 +75,9 @@ else:
 4.Dado un número real x, construya un programa que permita determinar si el número es positivo, negativo o cero. 
 Para cada caso de debe imprimir el texto que se especifica a continuación:
 
-- Positivo: "El número x es positivo"
-
-- Negativo: "El número x es negativo"
-
-- Cero (0): "El número x es el neutro para la suma"
+ -  Positivo: "El número x es positivo"
+ -  Negativo: "El número x es negativo"
+ -  Cero (0): "El número x es el neutro para la suma"
 
 
 ciertamente este fue le ejercicio mas facil de hacer, por ende me senti todo un pro pa esta materia (no le se a la programación)
