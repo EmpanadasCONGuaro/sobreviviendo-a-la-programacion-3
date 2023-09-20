@@ -69,3 +69,29 @@ elif x == 57:
 else: 
   print("el numero no corresponde a un digito en el codigo ASCII")
 ```
+
+
+
+4.Dado un número real x, construya un programa que permita determinar si el número es positivo, negativo o cero. 
+Para cada caso de debe imprimir el texto que se especifica a continuación:
+
+-Positivo: "El número x es positivo"
+-Negativo: "El número x es negativo"
+-Cero (0): "El número x es el neutro para la suma"
+
+
+ciertamente este fue le ejercicio mas facil de hacer, por ende me senti todo un pro pa esta materia (no le se a la programación)
+
+
+```pseudocode
+x : float
+x = float(input("ingrese un numero:"))
+
+if x<0:
+  print("el numero x es negativo")
+elif x==0:
+  print("El número x es el neutro para la suma")
+elif x>0:
+  print("el numero x es positivo")
+```
+  
