@@ -23,3 +23,14 @@ else:
   print("el numero no corresponde a una vocal minuscula en el codigo ASCII ")
 ```
 
+2.Dada una cadena de longitud 1, determine si el código ASCII de primera letra de la cadena es par o no.
+
+```pseudocode
+x = (input("ingrese una letra:"))
+n = ord (x)
+
+if n%2 == 0:
+  print("el codigo ASCII es par")
+else:
+  print("el codigo ASCII es impar")
+```
