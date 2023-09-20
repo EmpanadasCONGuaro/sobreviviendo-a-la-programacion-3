@@ -35,6 +35,7 @@ else:
   print("el codigo ASCII es impar")
 ```
 
+
 3.Dado un carácter, construya un programa en Python para determinar si el carácter es un dígito o no.
 
 Tengo que decir que aunque intente de varias maneras para lograr un codigo menos extenso y mas "bonito" no encontre las herramientas 
