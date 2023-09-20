@@ -75,11 +75,11 @@ else:
 4.Dado un número real x, construya un programa que permita determinar si el número es positivo, negativo o cero. 
 Para cada caso de debe imprimir el texto que se especifica a continuación:
 
--Positivo: "El número x es positivo"
+- Positivo: "El número x es positivo"
 
--Negativo: "El número x es negativo"
+- Negativo: "El número x es negativo"
 
--Cero (0): "El número x es el neutro para la suma"
+- Cero (0): "El número x es el neutro para la suma"
 
 
 ciertamente este fue le ejercicio mas facil de hacer, por ende me senti todo un pro pa esta materia (no le se a la programación)
@@ -105,7 +105,7 @@ elif x>0:
 
 - En resumen casi me da algo haciendo este ejercicio, al final descubri que era mas facil de lo que pensaba utilizando la formula
   
-  para hallar la distabcia entre dos puntos
+  para hallar la distancia entre dos puntos
 
 ```pseudocode
 x= float(input("ingrese la coordenada en el eje x:"))
