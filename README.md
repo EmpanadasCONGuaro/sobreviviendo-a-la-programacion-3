@@ -125,3 +125,22 @@ elif z==a:
 else:
   print("la punto no  esta dentro de la extension del radio")
 ```
+
+
+6.Dadas tres longitudes positivas, determinar si con esas longitudes se puede construir un triángulo.
+
+-  En este caso se debe tener en cuenta que para poder construir un triangulo la suma de los dos lados mas pequños debe ser mayor al
+  lado mas grande
+
+```pseudocode
+a=float(input("ingrese la longitud del lado a:"))
+b=float(input("ingrese la longitud del lado b:"))
+c=float(input("ingrese la longitud del lado c:"))
+
+if a+b>c and b+c>a and c+a>b:
+  print("se puede construir un triangulo")
+else:
+  print("no se puede construir cun triangulo")
+```
+
+
