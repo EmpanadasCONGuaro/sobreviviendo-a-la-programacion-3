@@ -1,6 +1,6 @@
 # sobreviviendo-a-la-programacion-3
 
--En esta bella tarde de semana universitaria me propuse a ahcae reto 4 de programacion (no entiendo nada)
+En esta bella tarde de semana universitaria me propuse a ahcae reto 4 de programacion (no entiendo nada)
 
 
 1.Dado un número entero, determinar si ese número corresponde al código ASCII de una vocal minúscula.
@@ -22,3 +22,4 @@ elif x == 117:
 else: 
   print("el numero no corresponde a una vocal minuscula en el codigo ASCII ")
 ```
+
