@@ -34,3 +34,37 @@ if n%2 == 0:
 else:
   print("el codigo ASCII es impar")
 ```
+
+3.Dado un carácter, construya un programa en Python para determinar si el carácter es un dígito o no.
+
+Tengo que decir que aunque intente de varias maneras para lograr un codigo menos extenso y mas "bonito" no encontre las herramientas 
+para hacerlo
+
+```pseudocode
+x = int 
+x = int(input("ingrese un numero caracter: "))
+
+if x == 48:
+  print("el numero corresponde a '0' en el codigo ASCII")
+elif x == 49:
+  print("el numero corresponde a '1' en el codigo ASCII")
+elif x == 50:
+  print("el numero corresponde a '2' en el codigo ASCII")
+elif x == 51:
+  print("el numero corresponde a '3' en el codigo ASCII")
+elif x == 52:
+  print("el numero corresponde a '4' en el codigo ASCII")
+elif x == 53:
+  print("el numero corresponde a '5' en el codigo ASCII")
+elif x == 54:
+  print("el numero corresponde a '6' en el codigo ASCII")
+elif x == 55:
+  print("el numero corresponde a '7' en el codigo ASCII")
+elif x == 56:
+  print("el numero corresponde a '8' en el codigo ASCII")
+elif x == 57:
+  print("el numero corresponde a '9' en el codigo ASCII")
+
+else: 
+  print("el numero no corresponde a un digito en el codigo ASCII")
+```
