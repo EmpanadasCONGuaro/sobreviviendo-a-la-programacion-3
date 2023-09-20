@@ -96,4 +96,30 @@ elif x==0:
 elif x>0:
   print("el numero x es positivo")
 ```
-  
+
+
+5.Dado el centro y el radio de un círculo, determinar si un punto de R2 pertenece o no al interior del círculo.
+
+
+- En resumen casi me da algo haciendo este ejercicio, al final descubri que era mas facil de lo que pensaba
+
+```pseudocode
+x= float(input("ingrese la coordenada en el eje x:"))
+y= float(input("ingrese la coordenada en el eje y:"))
+a= float(input("ingrese el extensión del radio:"))
+b= float(input("ingrese la nueva coordenada en el eje x:"))
+c= float(input("ingrese la nueva coordenada en el eje y:"))
+
+m= ((b-x))
+g= ((m)**2)
+n= ((c-y))
+h=((n)**2)
+z= ((g+h)**0.5)
+
+if z<a:
+  print("la coordenada esta dentro de la extension del radio")
+elif z==a:
+  print("la coordenada esta dentro de la extension del radio")
+else:
+  print("la punto no  esta dentro de la extension del radio")
+```
