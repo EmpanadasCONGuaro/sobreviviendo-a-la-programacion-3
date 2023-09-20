@@ -104,6 +104,7 @@ elif x>0:
 
 
 - En resumen casi me da algo haciendo este ejercicio, al final descubri que era mas facil de lo que pensaba utilizando la formula
+  
   para hallar la distabcia entre dos puntos
 
 ```pseudocode
